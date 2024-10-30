@@ -14,6 +14,7 @@ public class Principal {
         meuFilme.setDuracaoEmMinutos(180);
         System.out.println("Duracao do Filme: " + meuFilme.getDuracaoEmMinutos());
         //Ricci Gente boa e gay
+        //teste
         meuFilme.exibeFichaTecnica();
         meuFilme.avalia(8);
         meuFilme.avalia(5);
