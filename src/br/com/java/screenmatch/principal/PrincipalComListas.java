@@ -14,6 +14,8 @@ public class PrincipalComListas {
         Filme outroFilme = new Filme("Avatar",2023);
         outroFilme.avalia(8);
 
+        Filme filmeDoRicci = new Filme("Ricci e Rissou",2024);
+
         var maisFilme = new Filme("Velozes e Furiosos",2007);
         maisFilme.avalia(10);
 
